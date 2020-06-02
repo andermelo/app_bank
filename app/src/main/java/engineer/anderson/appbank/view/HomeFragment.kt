@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.fragment_home.*
 
 class HomeFragment : Fragment() {
 
-    private var userUuid = 0
+    //private var userUuid = 0
     private lateinit var viewModel : HomeViewModel
     private val statementListAdapter = StatementListAdapter(arrayListOf())
 

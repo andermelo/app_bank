@@ -5,7 +5,7 @@ import android.widget.Toast
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.navigation.Navigation
-import engineer.anderson.app_bank.view.LoginFragmentDirections
+import engineer.anderson.appbank.view.LoginFragmentDirections
 import engineer.anderson.appbank.model.BankApiService
 import engineer.anderson.appbank.model.LoginResponse
 import engineer.anderson.appbank.model.UserBank

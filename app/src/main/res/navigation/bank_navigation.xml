@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/loginFragment2"
-        android:name="engineer.anderson.app_bank.view.LoginFragment"
+        android:name="engineer.anderson.appbank.view.LoginFragment"
         android:label="LoginFragment" >
         <action
             android:id="@+id/action_loginFragment2_to_homeFragment2"

@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import engineer.anderson.appbank.R
 import engineer.anderson.appbank.model.Statement
-import kotlinx.android.synthetic.main.fragment_home.view.*
 import kotlinx.android.synthetic.main.item_statement.view.*
 
 class StatementListAdapter(val statementList : ArrayList<Statement>): RecyclerView.Adapter<StatementListAdapter.StatementViewHolder>() {
