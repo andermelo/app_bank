@@ -10,7 +10,7 @@ A demo app based on MVVM architecture.<br>
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a> 
 </p>
 
-![image app](/assets/images/videobank.gif)
+![image app](https://github.com/andermelo/app_bank/blob/master/assets/videobank.gif)
 
 ## Getting Started
 
